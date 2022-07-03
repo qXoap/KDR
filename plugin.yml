@@ -1,0 +1,5 @@
+name: KDR
+version: 1.0.0
+api: 4.0.0
+main: JackMD\KDR\KDR
+author: JackMD
