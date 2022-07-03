@@ -1,10 +1,6 @@
 ![KDR Banner](https://github.com/JackMD/KDR/blob/master/meta/KDR.png)
 # KDR
 
-| HitCount | License | Poggit | Release |
-|:--:|:--:|:--:|:--:|
-|[![HitCount](http://hits.dwyl.io/JackMD/KDR.svg)](http://hits.dwyl.io/JackMD/KDR)|[![GitHub license](https://img.shields.io/github/license/JackMD/KDR.svg)](https://github.com/JackMD/KDR/blob/master/LICENSE)|[![Poggit-CI](https://poggit.pmmp.io/ci.shield/JackMD/KDR/KDR)](https://poggit.pmmp.io/ci/JackMD/KDR/KDR)|[![](https://poggit.pmmp.io/shield.state/KDR)](https://poggit.pmmp.io/p/KDR)|
-
 ### A KDR, Kill Death Ratio  plugin for your Minecraft Bedrock Server. Allows you to keep track of players kills, deaths and kill to death ratio.
 
 ### Features
