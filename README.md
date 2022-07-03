@@ -5,11 +5,11 @@
 
 ### Features
  - Keep track of players kills.
+ - This plugin is an update to JackMD's KDR
  - Keep track of players deaths.
  - Keep track of players kill to death ratio.
  - Two storage ways are supported:
         - Yaml
-        - SQLite3
  - Simple and neat api for developers.
 
 ### How to setup?
