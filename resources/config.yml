@@ -30,7 +30,6 @@
 # Set the data provider which you would like to use.
 # Currently Available:
 # - yaml
-# - sqlite
 # Default: yaml
 data-provider: "yaml"
 
