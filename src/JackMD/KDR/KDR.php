@@ -43,7 +43,7 @@ class KDR extends PluginBase{
 	private static $instance;
 	
 	/** @var ProviderInterface */
-	private $provider;
+	public $provider;
 	
 	/**
 	 * @return KDR
