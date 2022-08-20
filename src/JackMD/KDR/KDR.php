@@ -68,7 +68,7 @@ class KDR extends PluginBase{
 	 * @return bool
 	 */
 	private function isValidProvider(): bool{
-		if(!isset($this->provider) || ($this->provider === null) || !($this->provider instanceof ProviderInterface)){
+		if(($this->provider === null) || !($this->provider instanceof ProviderInterface)){
 			return false;
 		}
 		return true;
