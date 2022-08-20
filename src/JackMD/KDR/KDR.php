@@ -28,6 +28,7 @@ declare(strict_types = 1);
  * You should have received a copy of the GNU General Public License v3.0
  * along with this program. If not, see
  * <https://opensource.org/licenses/GPL-3.0>.
+ * xd
  * ------------------------------------------------------------------------
  */
 
