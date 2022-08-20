@@ -40,7 +40,7 @@ use pocketmine\plugin\PluginBase;
 class KDR extends PluginBase{
 	
 	/** @var KDR */
-	private static $instance;
+	public static $instance;
 	
 	/** @var ProviderInterface */
 	private $provider;
