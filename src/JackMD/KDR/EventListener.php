@@ -38,11 +38,12 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\player\Player;
+use JackMD\KDR;
 
 class EventListener implements Listener{
 
 	/** @var KDR */
-	public $plugin;
+	private KDR $plugin;
 	
 	/**
 	 * EventListener constructor.
